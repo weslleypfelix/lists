@@ -1,0 +1,16 @@
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+credential.helper=manager
+user.email=weslleypfelix@gmail.com
+user.name=Weslley Felix
+filesystem.Oracle Corporation|12.0.1|573872677.timestampresolution=9972 microseconds
+filesystem.Oracle Corporation|12.0.1|573872677.minracythreshold=0 nanoseconds
