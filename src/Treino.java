@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Program {
+public class Treino {
 
 	public static void main(String[] args) {
 
@@ -49,7 +49,7 @@ public class Program {
 		
 		
 		
-		//System.out.println("Index of Weslley: " + list.indexOf("Weslley"));
+		System.out.println("Index of Weslley: " + list.indexOf(5));
 		System.out.println("=====================");
 		
 		for(String x : list) {
